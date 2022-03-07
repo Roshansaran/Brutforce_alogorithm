@@ -1,8 +1,3 @@
-"""
-Code Modified By AdhilTech
-Visit https://www.youtube.com/adhiltech
-"""
-
 import os
 import socket
 import time
@@ -55,7 +50,6 @@ def connect(name, SSID):
     #print(y)
 
 print("TURN OFF INTERNET CONNECTION BEFORE STARTING")
-print("Code By Youtube/AdhilTech")
 wifiname=str(input("Enter the Wifi Name (Exact Name): "))
 known_data=str(input("Enter the Wifi Password as you know (KnownData): "))
 bf_length=int(input("Enter Brute For Attack Length: "))
